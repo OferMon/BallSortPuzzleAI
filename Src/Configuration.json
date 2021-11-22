@@ -1,0 +1,13 @@
+{
+"stack1" : [4,["Red","Orange","Bright-Green","Light-Blue"]],
+"stack2" : [4,["Pink","Purple","Green","Gray"]],
+"stack3" : [4,["Light-Blue","Gray","Bright-Green","Pink"]],
+"stack4" : [4,["Green","Orange","Orange","Bright-Green"]],
+"stack5" : [4,["Red","Orange","Purple","Red"]],
+"stack6" : [4,["Pink","Blue","Purple","Purple"]],
+"stack7" : [4,["Green","Light-Blue","Blue","Gray"]],
+"stack8" : [4,["Blue","Red","Light-Blue","Pink"]],
+"stack9" : [4,["Gray","Blue","Green","Bright-Green"]],
+"stack10" : [4,[]],
+"stack11" : [4,[]]
+}
